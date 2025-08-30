@@ -30,4 +30,4 @@ This project replicates the main landing page of Netflix with clean UI, carousel
 ## 📂 How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YourUsername/Netflix-Clone.git
+   git clone https://github.com/Singh5547/Netflix-Clone.git
