@@ -19,8 +19,6 @@ This project replicates the main landing page of Netflix with clean UI, carousel
 ## 📸 Demo Preview
 ![Netflix Clone Screenshot](./Assets/demo.png)  
 
-*(Replace with your screenshot of the project in `Assets/demo.png`)*
-
 ---
 
 ## 🛠️ Built With
