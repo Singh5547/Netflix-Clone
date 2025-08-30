@@ -31,3 +31,5 @@ This project replicates the main landing page of Netflix with clean UI, carousel
 1. Clone this repo:
    ```bash
    git clone https://github.com/Singh5547/Netflix-Clone.git
+
+⚠️ This is a Netflix Clone (UI only) made for learning purposes. No data is collected.
